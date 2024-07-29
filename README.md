@@ -11,3 +11,5 @@ LuminaraDex is a comprehensive Pokémon database app developed in Flutter, desig
 6.  ***Card Collection:*** Browse through Pokémon cards with detailed information and stats.
 7.  ***Favorites Management:*** Mark and manage your favorite Pokémon for quick access.
 8.  ***Generation and Type Filters:*** Refine your search by Pokémon generation or type to easily find what you’re looking for.
+
+[Screencast from 07-29-2024 07:35:55 AM.webm](https://github.com/user-attachments/assets/dc8e6d72-fc7f-4a50-8e33-a728e5e46cd9)
