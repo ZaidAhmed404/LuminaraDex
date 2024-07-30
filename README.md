@@ -1,6 +1,9 @@
+![Blue Dark Professional Geometric Business Project Presentation ](https://github.com/user-attachments/assets/fb845d30-9861-4bb3-883c-94f1c645f639)
+
+
 # LuminaraDex
 
-LuminaraDex is a comprehensive Pokémon database app developed in Flutter, designed to be your ultimate resource for all things Pokémon. Whether you're a seasoned Trainer or a curious newcomer, LuminaraDex has you covered with a wide array of features and detailed information for every Pokémon across all generations.
+LuminaraDex is a comprehensive Pokémon database app developed in Flutter, designed to be your ultimate resource for all things Pokémon. Whether you're a seasoned Trainer or a curious newcomer, LuminaraDex has many features and detailed information for every Pokémon across all generations.
 
 ## Key Features
 
